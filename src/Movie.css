@@ -1,0 +1,32 @@
+html {
+  background-color: #222f3e;
+}
+
+.App {
+  text-align: center;
+}
+
+header {
+  width: 100vw;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+h1 {
+  color: #fff;
+  margin-right: 10px;
+  display: block;
+  font-family: "Acme", sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+  letter-spacing: 3px;
+  transition: ease-in 0.2s;
+}
+
+.filmIcon {
+  color: tomato;
+}
