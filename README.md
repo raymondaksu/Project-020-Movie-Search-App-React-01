@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/SemihDurmus/SDR_01_Movies.git">
+    <a href="https://github.com/raymondaksu/Project-020-Movie-Search-App-React-01.git">
       Project Source
     </a>
  
@@ -25,14 +25,14 @@
 
 ## Overview
 
-<!-- <img src="src/assets/rest1.gif" height="500">-->
+<img src="MovieSearchApp.gif" height="500">
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- Code Buddy : [Ramazan Aksu](https://github.com/raymondaksu)
+- Code Buddy : [Semih Durmus](https://github.com/SemihDurmus)
 
 
 ## Features
@@ -42,7 +42,7 @@ This app comprises use of Routing, Context, API and local storage in React.js
 - When the user lands the Home page he/she can see a group of movie cards pulled from the database in advance.
 - User can search for movies by entering the search string values. Then can either press the button or press enter to bring the relevant movie cards to screen.
 - Each movie card contains two buttons: one for directing to detailed information page and the other for adding the movie to favorites.
-- User can view the favorite movies (stored in local history) any time he/she enters the website.
+- User can view the favorite movies and delete any of them. User can view any time the favorite movies he/she enters the website (stored in local history). 
 
 ## How To Use
 
@@ -82,5 +82,5 @@ To use this application, the packages below should be installed prior to running
 
 ## Contact
 
-- GitHub [SemihDurmus](https://github.com/SemihDurmus)
-- Linkedin [@Semih Durmus](https://www.linkedin.com/in/semih-durmus-0548751b7/)
+- GitHub [RamazanAksu](https://github.com/raymondaksu)
+- Linkedin [@Ramazan_Aksu](https://www.linkedin.com/in/ramazan-aksu-825b171b7/)
