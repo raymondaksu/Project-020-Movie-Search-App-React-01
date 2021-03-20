@@ -1,4 +1,4 @@
-<h1 align="center">SDR_01 Movies</h1>
+<h1 align="center">Project-020-Movie-Search-App-React-01</h1>
 
 
 <div align="center">
